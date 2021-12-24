@@ -87,17 +87,25 @@ h2 {
   border-width: 5px;
   border-radius: 8px;
   padding: 10px;
-  flex: 0 0 300px;
   box-shadow: 10px 10px 5px #aaaaaa;
   margin: 20px;
   transition: 0.3s;
+  flex: 0 0 70%;
 }
 
 .biggest > header {
-    border-radius: var(--border-radius) var(--border-radius) 0 0;
+    border-radius: var(--border-radius) 0 0;
     padding: 20px;
+    font-size: 24px;
 }
 
 .biggest > img {
     width: 100%;
+}
+
+.biggest > h2 {
+    flex:0 0 20%;
+    text-align: right;
+    border-right: 5px solid black;
+    padding-right: 50px;
 }
