@@ -61,7 +61,6 @@ header nav ul li {
 .content-section{
     display:flex;
     flex-direction: row;
-    flex-wrap: wrap;
     justify-content: space-between;
     align-items: stretch; 
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif  
@@ -83,57 +82,49 @@ h2 {
 }
 
 .biggest {
-  border-style: solid;
-  border-width: 5px;
-  border-radius: 8px;
-  padding: 10px;
-  box-shadow: 10px 10px 5px #aaaaaa;
-  margin: 20px;
-  display:left;
+    font-size: 20px;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    margin: 20px;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
-img {
-    max-width: 100%;
-    height: auto;
-    width: auto\9; 
+
+main ul {
+    list-style-type: none;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 8px;
 }
 
-.biggest >  h2 {
-    display:left;
+main li {
+    float:unset;
 }
-
+  
+main li a {
+    display: block;
+    color: darkslategray;
+    background-color: lightgray;
+    border-radius: 8px;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    justify-content: space-around;
+}
+  
+main li a:hover {
+    background-color: #111111;
+    color: lightsteelblue;
+    border-radius: 8px;
+}
 
 footer {
     padding: 20px;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     width:100%; 
-}
-
-footer h3 {
-    display: inline-block;
-    font-size: 22px;
-}
-
-footer ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333333;
-}
-  
-footer li {
-    float: left;
-}
-  
-footer li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 16px;
-    text-decoration: none;
-}
-  
-footer li a:hover {
-    background-color: #111111;
 }
