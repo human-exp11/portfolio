@@ -96,16 +96,9 @@ p {
     box-shadow: 10px 10px 5px #aaaaaa;
     margin: 20px;
     display:flex;
-    flex-direction: row;
     flex-wrap: wrap;
-    justify-content: center;
 }
 
-.biggest header {
-    font-size: 25px;
-    text-shadow: 2px 2px 4px rgb(38, 62, 128);
-    font-family: Capriola;
-}
 
 .content-section img {
     width: 100%;
@@ -203,6 +196,9 @@ footer {
     .column {
       flex: 50%;
       max-width: 50%; 
+    }
+    .row {
+        flex-direction: column;
     }
 } 
 
