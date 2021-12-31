@@ -19,4 +19,4 @@ Created a responsive layout via mediaqueries
 
 [Live-site](https://human-exp11.github.io/portfolio/)
 
-![screenshot](portfolio\git-images\_C__Users_lucae_code_Homework_portfolio_portfolio_index.html.png)
+![screenshot]("C:\Users\lucae\code\Homework\portfolio\portfolio\assets\git-images\portscreen.png")
