@@ -1,3 +1,6 @@
+html {
+    scroll-behavior: smooth;
+}
 
 body {
     background-image: url(https://wallpaperaccess.com/full/1093402.jpg);
@@ -21,7 +24,7 @@ header h1 {
     display: inline-block;
     font-size: 48px;
     color: black;
-    text-shadow:2px 2px 4px rgb(38, 62, 128);
+    text-shadow:2px 2px 4px whitesmoke;
 }
 
 header nav {
@@ -31,10 +34,6 @@ header nav {
     font-family: Source Sans Pro;
     text-transform: uppercase;
     font-size: 22px;
-}
-
-header nav ul {
-    top:0;
 }
 
 header nav li {
@@ -62,8 +61,7 @@ a {
     color: black;
     text-decoration: none;
     transition: ease-in-out;
-}
-    
+}    
 
 .content-section{
     display:flex;
@@ -143,15 +141,12 @@ h3 {
     display: block;
 }
 
-    
-
 main ul {
     list-style-type: none;
     border-radius: 8px;
     justify-content:space-between;
 }
 
-  
 main li a {
     color: darkslategray;
     background-color: lightsteelblue;
@@ -197,7 +192,7 @@ footer {
 }
 
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1000px) {
     .column {
       flex: 50%;
       max-width: 50%; 
