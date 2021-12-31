@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 
 ***Portfolio Project:*** My Portfolio showcases future applications/projects, as well as, information about myself and links that deploy to my LinkedIn, GitHub, & Twitter. It will be used to showcase my work to future employers.
@@ -17,6 +17,6 @@ Created a responsive layout via mediaqueries
 * Added background image & shadows to titles & borders, & also downloaded new fonts
 
 
-[Live-site] (https://human-exp11.github.io/portfolio/)
+[Live-site](https://human-exp11.github.io/portfolio/)
 
-![ScreenShot]("C:\Users\lucae\code\Homework\portfolio\portfolio\git-images\_C__Users_lucae_code_Homework_portfolio_portfolio_index.html.png")
+![ScreenShot](.\git-images\_C__Users_lucae_code_Homework_portfolio_portfolio_index.html.png")
