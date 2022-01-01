@@ -1,7 +1,8 @@
 # Portfolio
 
 
-***Portfolio Project:*** My Portfolio showcases future applications/projects, as well as, information about myself and links that deploy to my LinkedIn, GitHub, & Twitter. It will be used to showcase my work to future employers.
+***Portfolio Project:*** 
+My Portfolio showcases future applications/projects, as well as, information about myself and links that deploy to my LinkedIn, GitHub, & Twitter. It will be used to showcase my work to future employers.
 
 
 This portfolio is an ongoing project & will be addended to include new coding skills and languages that are taught in Bootcamp.
@@ -17,7 +18,7 @@ Created a responsive layout via mediaqueries
 * Added background image & shadows to titles & borders, & also downloaded new fonts
 
 
-[Live-site](https://human-exp11.github.io/portfolio/)
+[Live-Site](https://human-exp11.github.io/portfolio/)
 
-![screenshot](./portfolio/assets/git-images/screenshotportfolio.png)
+![ screenshot](./git-images/screenshotportfolio.png)
 
