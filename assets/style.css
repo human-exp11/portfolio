@@ -173,6 +173,8 @@ footer {
     width:100%; 
 }
 
+/* Media Queries below to customize responsiveness */
+
 @media screen and (max-width: 1300px) {
     header nav ul {
         list-style-type: none;

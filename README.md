@@ -10,7 +10,7 @@ This portfolio is an ongoing project & will be addended to include new coding sk
 * Created a header with an image of myself & a nav bar that deploys to the specific section
 * Created one large application above three smaller apps
 * Added contact links that deploy to my LinkedIn, GitHub, & Twitter
-Created a responsive layout via mediaqueries
+* Created a responsive layout via mediaqueries
 * Adjusted scrolling behavior to smooth
 * Added background image & shadows to titles & borders, & also downloaded new fonts
 * Created README file with link & screenshot
