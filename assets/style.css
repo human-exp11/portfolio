@@ -2,10 +2,7 @@ html {
     scroll-behavior: smooth;
 }
 
-body {
-    background-image: url(https://wallpaperaccess.com/full/1093402.jpg);
-}
-
+/* header section */
 header {
     padding-bottom: 60px;
     padding-top: 10px;
@@ -57,12 +54,18 @@ header nav li {
     color: black;
 }
 
+body {
+    background-image: url(https://wallpaperaccess.com/full/1093402.jpg);
+}
+
+/* anchor tags  */
 a {
     color: black;
     text-decoration: none;
     transition: ease-in-out;
 }    
 
+/* main application section */
 .content-section{
     display:flex;
     flex-direction: row;
@@ -99,7 +102,6 @@ p {
     flex-wrap: wrap;
 }
 
-
 .content-section img {
     width: 100%;
     height: auto;
@@ -110,7 +112,6 @@ p {
     align-items: center;
     padding: 4px, 4px;
 }
-  
 
 .column {
     flex: 25%;
@@ -141,6 +142,7 @@ h3 {
     display: block;
 }
 
+/* contact links */
 main ul {
     list-style-type: none;
     border-radius: 8px;
@@ -168,13 +170,13 @@ main li a:hover {
     transition: ease-in-out;
 }
 
+/* footer section */
 footer {
     padding: 20px;
     width:100%; 
 }
 
-/* Media Queries below to customize responsiveness */
-
+/* Media Queries  to customize responsiveness */
 @media screen and (max-width: 1300px) {
     header nav ul {
         list-style-type: none;
