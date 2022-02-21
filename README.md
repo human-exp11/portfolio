@@ -20,7 +20,7 @@ This portfolio is an ongoing project & will be addended to include new coding sk
 
 [Live-site](https://human-exp11.github.io/portfolio/)
 
-![screenshot](./git-images/final_ss.png)
+![screenshot](./git-images/fixed_final.png)
 
 
 
